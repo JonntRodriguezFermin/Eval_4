@@ -1,0 +1,15 @@
+{
+    "name": "ramses/otro-proyecto",
+    "description": "Proyecto Jonnt Programacion\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C II\u001b[C\u001b[DI\u001b[3~\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C Jonnt Programacion IV",
+    "autoload": {
+        "psr-4": {
+            "Ramses\\OtroProyecto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jonnt Fermin"
+        }
+    ],
+    "require": {}
+}
